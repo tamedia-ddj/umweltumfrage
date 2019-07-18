@@ -2,7 +2,7 @@
 
 # So wurden die Daten erhoben
 
-Die Umfrage basiert auf eine neuartige Umfrage-Methode der Firma «Boomerang Ideas» aus Zürich. Befragt wurden dafür knapp 1000 deutsch-, französisch und italienisch-sprechende Schweizer Social-Media-Nutzer auf Facebook und Instagram im Zeitrahmen 9. bis 16. Juli 2019.
+Die Umfrage basiert auf eine neuartige Umfrage-Methode der Firma «Boomerang Ideas» aus Zürich. Befragt wurden knapp 1000 deutsch-, französisch und italienisch-sprechende Schweizer Social-Media-Nutzer auf Facebook und Instagram im Zeitrahmen 9. bis 16. Juli 2019.
 
 Die Teilnehmenden gaben nur Auskunft zu den Fragen, nicht zu ihren Alter oder ihrem Standort. Diese wurden aufgrund der Angaben des sozialen Netzwerkes erhoben. Gerade auf Facebook ist diese Information äusserst verlässlich.
 
