@@ -8,4 +8,4 @@ Die Teilnehmenden gaben nur Auskunft zu den Fragen, nicht zu ihren Alter oder ih
 
 Erreicht hat die Werbung zudem ausschliesslich nur Leute im Alter von 13 bis 64. Die repräsentative Gewichtung nach Altersgruppe und Einwohnerzahl der sieben Schweizer Grossregionen geschah aufgrund des aktuellen Schlüssels des Bundesamts für Statistik.
 
-Die Rohdaten sind hier abrufbar: https://github.com/tamedia-ddj/umweltumfrage.
+Die Rohdaten sind [hier](https://github.com/tamedia-ddj/umweltumfrage/blob/master/07_Data.xlsx) abrufbar. Der detailliete Report ist [hier](https://github.com/tamedia-ddj/umweltumfrage/blob/master/010_011-Final%20Report_f02.pdf).
